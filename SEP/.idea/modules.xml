@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cardholder/Cardholder.iml" filepath="$PROJECT_DIR$/Cardholder/Cardholder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Issuer-bank/Issuer-bank.iml" filepath="$PROJECT_DIR$/Issuer-bank/Issuer-bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merchant/Merchant.iml" filepath="$PROJECT_DIR$/Merchant/Merchant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Payment-gateway/Payment-gateway.iml" filepath="$PROJECT_DIR$/Payment-gateway/Payment-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SEP.iml" filepath="$PROJECT_DIR$/.idea/SEP.iml" />
+    </modules>
+  </component>
+</project>

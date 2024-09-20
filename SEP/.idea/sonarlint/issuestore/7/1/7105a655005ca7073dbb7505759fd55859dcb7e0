@@ -1,0 +1,32 @@
+
+g	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(ö¨ßøÿÿÿÿ8Éêí1
+]
+java:S1192•"FDefine a constant instead of duplicating this literal "token" 5 times.(™ˆ µ
+f	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÓË°
+k	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¥óˆúÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔŠ¥¦ùÿÿÿÿ
+g	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¤¥
+
+java:S1488¿"sImmediately return this expression instead of assigning it to the temporary variable "paymentResponseFromMerchant".(èÇÏŒûÿÿÿÿ
+\
+java:S2259}"FA "NullPointerException" could be thrown; "certData" is nullable here.(õà›“
+a
+java:S2259v"FA "NullPointerException" could be thrown; "response" is nullable here.(—õ¯Ôúÿÿÿÿ
+i
+java:S2095š"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(àÀšóúÿÿÿÿ
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(ñ¶¸
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(ŞÉ“Öşÿÿÿÿ
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(ê¦ï“
+£
+java:S1130Ã"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(Ñ­ÅÜ
+T	java:S106Ä"9Replace this use of System.out or System.err by a logger.(öØ­ğúÿÿÿÿ
+O	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ü¥ã’
+O	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(ÛÊâ˜
+T	java:S106Ò"9Replace this use of System.out or System.err by a logger.(Â·şúÿÿÿÿ
+O	java:S106Ó"9Replace this use of System.out or System.err by a logger.(¶ªÑ¥
+¢
+java:S1130×"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(ÍíóU
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(ó¡áŠıÿÿÿÿ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(µ‘Ôıÿÿÿÿ
+K
+java:S1144ç"/Remove this unused private "decryptRSA" method.(Ä»Îÿÿÿÿÿ

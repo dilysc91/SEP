@@ -1,0 +1,40 @@
+
+a
+java:S1192ƒ"JDefine a constant instead of duplicating this literal "m-message" 6 times.(ÈÓ€ı
+P
+java:S1141|"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ììÒ÷ıÿÿÿÿ
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¤¥
+a
+java:S2259x"FA "NullPointerException" could be thrown; "response" is nullable here.(—õ¯Ôúÿÿÿÿ
+V
+java:S2259"AA "NullPointerException" could be thrown; "bar" is nullable here.(Ê­n
+j
+java:S2259É"SA "NullPointerException" could be thrown; "paymentResponseFromPG" is nullable here.(ÈõŞä
+i
+java:S2095Ï"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(àÀšóúÿÿÿÿ
+i
+java:S2095¾"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(àÀšóúÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(ÔÛšâ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(š«Š¦øÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(¤ìœøÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(‚Äá
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(­Äòİ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(øîåÿÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(ä¾…Å
+M	java:S106u"9Replace this use of System.out or System.err by a logger.(Ä¶>
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(ïİŸÕıÿÿÿÿ
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(ğ®ˆ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(·Ä¨™øÿÿÿÿ
+O	java:S106Ç"9Replace this use of System.out or System.err by a logger.(ê¦ï“
+£
+java:S1130˜"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(Ñ­ÅÜ
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(öØ­ğúÿÿÿÿ
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(ü¥ã’
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(ÛÊâ˜
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(Â·şúÿÿÿÿ
+V	java:S106¨"9Replace this use of System.out or System.err by a logger.(¶ªÑ¥8Ë¸ªè1
+f
+java:S1128"DRemove this unused import 'java.security.cert.CertificateException'.(èÙ¿ùÿÿÿÿ8›ö«è1
+H
+java:S1144å",Remove this unused private "getPIMD" method.(ò¹ÍÂùÿÿÿÿ
